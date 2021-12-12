@@ -21,11 +21,15 @@ It is preferable that you choose the option "n", which is less expensive in comp
 
 ## Visualization
 The simulation outputs .vtk files. It is possible to read such files with Paraview or Visit. I personally used Visit to retrieve animations.
-Here are a few samples:
+Here are a few samples.
+
 Field Pressure:
-![alt text](img/avg_drag_coef.png)
+
+![alt text](img/pressure_field.JPEG)
+
 Vorticity:
-![alt text](img/avg_drag_coef.png)
+
+![alt text](img/vort_field.JPEG)
 
 ## Analysis 
 Computations are performed using dimensionless quantities. To do so, time was divided by the time needed for the fluid to go along the studied obstacle at average flow speed.
