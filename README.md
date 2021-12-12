@@ -13,3 +13,8 @@ After running a few simulations, you can plot the following data with main.m :
 
 ## Average drag coefficient versus Reynolds number
 ![alt text](img/avg_drag_coef.png)
+
+## Main Result: vortex emission frequency
+
+Vortex emission frequency is retrieved by measuring lift coefficient periodicity (FFT). 
+We can notice that below a certain Reynolds threshold, the regime is aperiodic, which means that no vortex is emitted.
