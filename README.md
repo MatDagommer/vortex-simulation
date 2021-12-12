@@ -16,8 +16,10 @@ You can also launch FreeFem++ manually, and open ```BVK_simple_2019.edp```.
 The prompt will show up three consecutive questions:
 ```Raffinement automatique du maillage pendant le calcul? (o/n):``` stands for "Automatic Mesh refinement during the calculation".
 It is preferable that you choose the option "n", which is less expensive in computation time. 
+
 ```Entrer le nombre de Reynolds:``` stands for "Choose Reynolds number". You may choose a Reynolds number from 1 to 1000.
-```Entrer le nombre d'itérations:``` stands for "Choose the number of iterations". I chose 1000 iterations for my simulations but may choose larger values.
+
+```Entrer le nombre d'itérations:``` stands for "Choose the number of iterations". I chose 1000 iterations for my simulations but you may choose larger values.
 
 ## Visualization
 The simulation outputs .vtk files. It is possible to read such files with Paraview or Visit. I personally used Visit to retrieve animations.
