@@ -12,4 +12,4 @@ After running a few simulations, you can plot the following data with main.m :
 ![alt text](img/drag_coef_vs_time.png)
 
 ## Average drag coefficient versus Reynolds number
-![alt text](img/average_drag_coefficient.png)
+![alt text](img/avg_drag_coef.png)
