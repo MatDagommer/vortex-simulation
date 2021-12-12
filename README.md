@@ -8,7 +8,7 @@ The purpose was to study the formation of vortices by an obstacle using a two-di
 The software that was used to perform the simulation is called FreeFem++ (http://www3.freefem.org/) and was developed by a team of researchers from the Pierre and Marie Curie University (UPMC).
 
 ## Instructions
-To download this repo: '''''$ git clone https://github.com/MatDagommer/vortex-simulation.git'''''
+To download this repo: ```$ git clone https://github.com/MatDagommer/vortex-simulation.git```
 
 Computations are performed using dimensionless quantities. To do so, time was divided by the time needed for the fluid to go along the studied obstacle at average flow speed.
 After running a few simulations, you can plot the following data with main.m : 
