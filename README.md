@@ -25,11 +25,11 @@ Here are a few samples.
 
 Field Pressure:
 
-![alt text](img/pressure_field.JPEG)
+![alt text](img/pressure_field.PNG)
 
 Vorticity:
 
-![alt text](img/vort_field.JPEG)
+![alt text](img/vort_field.PNG)
 
 ## Analysis 
 Computations are performed using dimensionless quantities. To do so, time was divided by the time needed for the fluid to go along the studied obstacle at average flow speed.
