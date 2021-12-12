@@ -2,7 +2,7 @@
 
 ## Welcome to the vortex-simulation project !
 
-This repo is the result of a practical work supervised by Prof. Marc Fermigier as part of the Fluid Mechanics course at ESPCI Paris.
+This repo is based on a practical work supervised by Prof. Marc Fermigier as part of the Fluid Mechanics course at ESPCI Paris.
 The purpose was to study the formation of vortices by an obstacle using a two-dimensional finite element based mechanical flow simulation tool.
 
 The software that was used to perform the simulation is called FreeFem++ (http://www3.freefem.org/) and was developed at Pierre and Marie Curie University (UPMC).
