@@ -17,4 +17,5 @@ After running a few simulations, you can plot the following data with main.m :
 ## Main Result: vortex emission frequency
 
 Vortex emission frequency is retrieved by measuring lift coefficient periodicity (FFT). 
+![alt text](img/vortex_emission_freq.png)
 We can notice that below a certain Reynolds threshold, the regime is aperiodic, which means that no vortex is emitted.
