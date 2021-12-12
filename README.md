@@ -19,6 +19,14 @@ It is preferable that you choose the option "n", which is less expensive in comp
 ```Entrer le nombre de Reynolds:``` stands for "Choose Reynolds number". You may choose a Reynolds number from 1 to 1000.
 ```Entrer le nombre d'itérations:``` stands for "Choose the number of iterations". I chose 1000 iterations for my simulations but may choose larger values.
 
+## Visualization
+The simulation outputs .vtk files. It is possible to read such files with Paraview or Visit. I personally used Visit to retrieve animations.
+Here are a few samples:
+Field Pressure:
+![alt text](img/avg_drag_coef.png)
+Vorticity:
+![alt text](img/avg_drag_coef.png)
+
 ## Analysis 
 Computations are performed using dimensionless quantities. To do so, time was divided by the time needed for the fluid to go along the studied obstacle at average flow speed.
 After running a few simulations, you can plot the following data with main.m : 
