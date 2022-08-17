@@ -1,6 +1,6 @@
-# vortex-simulation
+# Born Von Karman Vortex Simulation
 
-## Welcome to the vortex-simulation project !
+## Introduction
 
 This repo is based on a practical work supervised by Prof. Marc Fermigier as part of the Fluid Mechanics course at ESPCI Paris.
 The purpose was to study the formation of vortices by an obstacle using a two-dimensional finite element based mechanical flow simulation tool.
