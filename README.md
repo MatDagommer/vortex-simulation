@@ -1,4 +1,4 @@
-# Born Von Karman Vortex Simulation
+# Karman Vortex Street Simulation
 
 ## Introduction
 
